@@ -1,2 +1,2 @@
 # leetcode
-My leetcode files
+My personal collection of leetcode files to reference later
